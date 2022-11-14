@@ -41,7 +41,7 @@ export const About = () => {
           <div className="text-lg flex flex-col justify-centet">
             <h1 className="text-6ls text-green-300 mb-4">
               Hey there. I'm{" "}
-              <span className="text-red-100 font-bold">{author.name}</span>
+              <span className="text-green-100 font-bold">{author.name}</span>
             </h1>
             <div className="prose lg:prose-xl text-white">
               <BlockContect
